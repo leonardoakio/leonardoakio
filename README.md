@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo Akio
+# Olá, 
 
 - Cursando Ciência da Computação (6º período)
 - Atualmente trabalho como desenvolvedor PHP / Laravel 
