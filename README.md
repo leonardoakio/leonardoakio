@@ -1,4 +1,4 @@
-# Olá, 
+# Olá, eu sou o Leo
 
 - Cursando Ciência da Computação (6º período)
 - Atualmente trabalho como desenvolvedor PHP / Laravel 
