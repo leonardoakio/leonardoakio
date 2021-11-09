@@ -1,8 +1,8 @@
 # Olá, eu sou o Leonardo
 
 - Cursando Ciência da Computação
-- Atualmente trabalho como desenvolvedor PHP / Laravel 
-- Trabalho também com tecnologias Front-End como Vue.js e Angular
+- Atualmente trabalho como desenvolvedor PHP e front-end Vue.js
+- Atuo também como Analista de Dados através de ferramentas como Metabase e PowerBI
 
 ## Stacks
 
