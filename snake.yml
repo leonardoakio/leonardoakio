@@ -15,7 +15,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: akioleo
+          github_user_name: leonardo-hamada
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
@@ -25,6 +25,6 @@ jobs:
         with:
           target_branch: svg
           build_dir: dist
-          author: akioleo
+          author: leonardo-hamada
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
