@@ -22,5 +22,5 @@
 <a href="https://github.com/leonardo-hamada?tab=followers"><img src="https://img.shields.io/github/followers/leonardo-hamada"></a>
 <a href="mailto:akioleonardo@gmail.com"><img src="https://img.shields.io/badge/Email-akioleonardo@gmail.com-blue" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/leonardo-akio/" title="Linkedin"><img src="https://img.shields.io/badge/Linkedin-4682B4?logo=linkedin" alt="leonardo-hamada"/>
-<a href="https://www.linkedin.com/in/leonardo-akio/" title="Linkedin"><img src="https://img.shields.io/badge/Discord-D3D3D3?logo=discord" alt="leonardo-hamada"/>
+<a href="https://www.linkedin.com/in/leonardo-akio/" title="Linkedin"><img src="https://img.shields.io/badge/leoakio %231154-D3D3D3?logo=discord" alt="leonardo-hamada"/>
 </a>
