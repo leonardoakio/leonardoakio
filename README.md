@@ -9,9 +9,9 @@
 
 <!--START_SECTION:activity-->
 1. 💻 <a href="https://github.com/leonardo-hamada/Animal-game" target="_blank">Animal-Game</a> (Prevalent System, Reactive Systems)
-2. 💸 <a href="https://github.com/leonardo-hamada/MoneyTransaction_v2" target="_blank">Money_Transaction_API</a> (Laravel)
-3. 🏪 <a href="https://github.com/leonardo-hamada/Marketplace_Laravel" target="_blank">Marketplace</a> (Laravel with Front-End)
-4. 🏚️ <a href="https://github.com/leonardo-hamada/ImoveisAPI_Laravel" target="_blank">Real_Estate_Broker_API</a> (Laravel)
+2. 📝 <a href="https://github.com/leonardo-hamada/PHP_functional_programming" target="_blank">Functional_Programmimng</a> (PHP)
+3. 💸 <a href="https://github.com/leonardo-hamada/MoneyTransaction_v2" target="_blank">Money_Transaction_API</a> (Laravel)
+4. 🏪 <a href="https://github.com/leonardo-hamada/Marketplace_Laravel" target="_blank">Marketplace</a> (Laravel with Front-End)
 <!--END_SECTION:activity-->
 
 </details>
