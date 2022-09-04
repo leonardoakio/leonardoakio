@@ -2,6 +2,8 @@
 - My name is Leonardo Akio, a PHP developer 👋
 - Little experience with data analysis
 
+[![github contribution grid snake animation](https://raw.githubusercontent.com/akioleo/akioleo/svg/github-contribution-grid-snake.svg)](https://github.com/akioleo)
+
 <details>
 <summary>Activity </summary>
 
@@ -13,9 +15,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-[![github contribution grid snake animation](https://raw.githubusercontent.com/akioleo/akioleo/svg/github-contribution-grid-snake.svg)](https://github.com/akioleo)
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akioleo&layout=compact&theme=dracula)](https://github.com/headrockz/github-readme-stats)
 
 <a href="https://github.com/akioleo"><img src="https://komarev.com/ghpvc/?username=akioleo" alt="akioleo"/></a>
