@@ -1,6 +1,6 @@
 # About
 - My name is Leonardo Akio, a PHP developer 👋
-- Little experience with data analysis
+- Some experience with data analysis
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/leonardo-hamada/leonardo-hamada/svg/github-contribution-grid-snake.svg)](https://github.com/leonardo-hamada)
 
