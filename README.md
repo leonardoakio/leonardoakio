@@ -8,7 +8,7 @@
 <summary>Activity </summary>
 
 <!--START_SECTION:activity-->
-1. 💻 <a href="https://github.com/leonardoakio/Animal-game" target="_blank">Animal-Game</a> (Prevalent System, Reactive Systems)
+1. 💻 <a href="https://github.com/leonardoakio/kanban_simulator_dotnet" target="_blank">Kanban Simulador <b>Message Broker</b></a> (GenServers, EventBus)
 2. 📝 <a href="https://github.com/leonardoakio/PHP_functional_programming" target="_blank">Functional_Programmimng</a> (PHP)
 3. 💸 <a href="https://github.com/leonardoakioleonardoakio/MoneyTransaction_v2" target="_blank">Money_Transaction_API</a> (Laravel)
 4. 🏪 <a href="https://github.com/leonardoakio/Marketplace_Laravel" target="_blank">Marketplace</a> (Laravel with Front-End)
