@@ -1,8 +1,10 @@
 # Sobre
-- Meu nome é Leonardo Akio, sou Desenvolvedor de Software 👋
-Experiência em arquitetura de microsserviços, cloud computing, sistemas de mensageria, sistemas de autenticação e testes automatizados.
-Tenho habilidade em aplicar metodologias ágeis, como Scrum e Kanban, e conduzir testes manuais em QA.
-Estou comprometido em aprimorar continuamente minhas habilidades de liderança, comunicação e padrões arquiteturais, enquanto contribuo para o desenvolvimento de soluções inovadoras
+Meu nome é Leonardo Akio, sou Desenvolvedor de Software 👋
+# Experiências  
+- Experiência em arquitetura de microsserviços, cloud computing, sistemas de mensageria, sistemas de autenticação e testes automatizados.  
+- Tenho habilidade em aplicar metodologias ágeis, como Scrum e Kanban, e conduzir testes manuais em QA.  
+- Estou comprometido em aprimorar continuamente minhas habilidades de liderança, comunicação e padrões arquiteturais, enquanto contribuo para o desenvolvimento de soluções inovadoras
+
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/leonardoakio/leonardoakio/svg/github-contribution-grid-snake.svg)](https://github.com/leonardoakio)
 
