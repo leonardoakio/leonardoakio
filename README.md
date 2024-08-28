@@ -1,12 +1,18 @@
 # Sobre
-Meu nome é Leonardo Akio, sou Desenvolvedor de Software 👋
-# Experiências  
-- Experiência em arquitetura de microsserviços, cloud computing, sistemas de mensageria, sistemas de autenticação e testes automatizados.  
-- Tenho habilidade em aplicar metodologias ágeis, como Scrum e Kanban, e conduzir testes manuais em QA.  
-- Estou comprometido em aprimorar continuamente minhas habilidades de liderança, comunicação e padrões arquiteturais, enquanto contribuo para o desenvolvimento de soluções inovadoras
+Meu nome é Leonardo Akio, sou Engenheiro de Software 👋
+# Resumo de qualificações
+Experiência profissional há 4 anos como desenvolvedor de software em empresas de tecnologia,
+serviços financeiros e edtechs. Foco em arquitetura de microsserviços, cloud computing, sistemas de
+mensageria, testes automatizados, observabilidade e metodologias ágeis. Participação em grandes
+projetos construídos do zero como o desenvolvimento e implantação da intranet do Cruzeiro,
+lançamento do programa de sócio torcedor, implantação de infraestrutura cloud (AWS) e
+desenvolvimento de produto de investimento (P2B lending e Hub de Investimentos).
 
-
-[![github contribution grid snake animation](https://raw.githubusercontent.com/leonardoakio/leonardoakio/svg/github-contribution-grid-snake.svg)](https://github.com/leonardoakio)
+- Linguagens: Javascript e PHP; 
+- Banco de dados: MySQL, PostGreSQL e MongoDB; 
+- Cloud: AWS;
+- Tecnologias: Laravel, Swoole + HyperF, Kafka, Docker, Grafana, OpenSearch, New Relic, Jaeger, HashiCorp Vault, Kubernetes, Keycloak;
+- Qualidade de código: Clean Code, SOLID e orientação a objetos.
 
 <details>
 <summary>Activity </summary>
