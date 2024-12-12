@@ -8,23 +8,13 @@ projetos construídos do zero como o desenvolvimento e implantação da intranet
 lançamento do programa de sócio torcedor, implantação de infraestrutura cloud (AWS) e
 desenvolvimento de produto de investimento (P2B lending e Hub de Investimentos).
 
-- Linguagens: Javascript e PHP; 
+- Linguagens: Javascript e PHP;
+- Front-end: Vue.js e React
 - Banco de dados: MySQL, PostGreSQL e MongoDB; 
 - Cloud: AWS;
 - Tecnologias: Laravel, Swoole + HyperF, Kafka, Docker, Grafana, OpenSearch, New Relic, Jaeger, HashiCorp Vault, Kubernetes, Keycloak;
-- Qualidade de código: Clean Code, SOLID e orientação a objetos.
+- Qualidade de código: Clean Code, SOLID e Orientação a Objetos.
 
-<details>
-<summary>Activity </summary>
-
-<!--START_SECTION:activity-->
-1. 💻 <a href="https://github.com/leonardoakio/kanban_simulator_dotnet" target="_blank">Kanban Simulador <b>Message Broker</b></a> (GenServers, EventBus)
-2. 📝 <a href="https://github.com/leonardoakio/PHP_functional_programming" target="_blank">Functional_Programmimng</a> (PHP)
-3. 💸 <a href="https://github.com/leonardoakioleonardoakio/MoneyTransaction_v2" target="_blank">Money_Transaction_API</a> (Laravel)
-4. 🏪 <a href="https://github.com/leonardoakio/Marketplace_Laravel" target="_blank">Marketplace</a> (Laravel with Front-End)
-<!--END_SECTION:activity-->
-
-</details>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoakio&layout=compact&theme=dracula)](https://github.com/headrockz/github-readme-stats)
 
