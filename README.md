@@ -1,7 +1,7 @@
 # Sobre
 Meu nome é Leonardo Akio, sou Engenheiro de Software 👋
 # Resumo de qualificações
-Experiência profissional há 4 anos como desenvolvedor de software em empresas de tecnologia,
+Experiência profissional há mais de 5 anos como desenvolvedor de software em empresas de tecnologia,
 serviços financeiros e edtechs. Foco em arquitetura de microsserviços, cloud computing, sistemas de
 mensageria, testes automatizados, observabilidade e metodologias ágeis. Participação em grandes
 projetos construídos do zero como o desenvolvimento e implantação da intranet do Cruzeiro,
